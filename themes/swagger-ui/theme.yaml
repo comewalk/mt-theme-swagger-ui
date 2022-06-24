@@ -1,0 +1,25 @@
+label: 'Swagger UI'
+id: 'swagger-ui'
+version: 1.0
+author_name: 'Takatsugu Shigeta'
+class: 'blog'
+description: 'Use Swagger UI'
+elements:
+  blog_static_files:
+    component: ~
+    data:
+      - css
+      - js
+    importer: blog_static_files
+  template_set:
+    component: ~
+    data:
+      base_path: templates
+      label: exported_template set
+      templates:
+        index:
+          main_index:
+            label: Main Index
+            outfile: index.html
+            rebuild_me: 1
+    importer: template_set
