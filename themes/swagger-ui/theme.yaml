@@ -1,6 +1,6 @@
 label: 'Swagger UI'
 id: 'swagger-ui'
-version: 1.0
+version: 1.1
 author_name: 'Takatsugu Shigeta'
 class: 'blog'
 description: 'Use Swagger UI'
