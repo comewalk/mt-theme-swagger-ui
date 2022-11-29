@@ -8,6 +8,6 @@
     "copy": "cp node_modules/swagger-ui-dist/swagger-ui-bundle.js themes/swagger-ui/blog_static/js/ && cp node_modules/swagger-ui-dist/swagger-ui.css themes/swagger-ui/blog_static/css/ && cp node_modules/swagger-ui-dist/swagger-ui-standalone-preset.js themes/swagger-ui/blog_static/js/"
   },
   "dependencies": {
-    "swagger-ui-dist": "^4.12.0"
+    "swagger-ui-dist": "^4.15.5"
   }
 }
